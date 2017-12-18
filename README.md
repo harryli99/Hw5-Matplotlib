@@ -1,4 +1,12 @@
+HW#5 - MatplotLib
+Pyber
 
+The Matplotlib library was used to create a Bubble chart that showcased the relationship between Average Fare ($) Per City, Total Number of Rides Per City, Total Number of Drivers Per City, City Type (Urban, Suburban, Rural). Also, three Pie charts were made to see Average Fare ($) Per City, Total Number of Rides Per City, Total Number of Drivers Per City, City Type (Urban, Suburban, Rural).
+
+From the results, I observe these following trends:
+1. There are more drivers and rides in urban cities compared to suburban and rural cities.
+2. The average fare seems to increase as the cities become more rural
+3. Urban cities make up over 60% of total fare, total rides, and total number of drivers
 
 ```python
 import pandas as pd
